@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div_esquerda-titulo{
+    text-transform: uppercase;
+}
+.cabecalho{
+    background-color: green;
+    height:20px;
+}
+.rodape{
+    background-color: green;
+    height: 20px;
+}
